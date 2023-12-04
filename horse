@@ -1,0 +1,54 @@
+<html>
+<body>
+<header>
+<link rel="stylesheet" href="https://github.com/AnastasiaDOKA/styless/blob/main/style%201"/>
+    <img src="https://e7.pngegg.com/pngimages/161/338/png-clipart-horse-graphy-graphics-appaloosa-horse-head-horse-stock-photography.png">
+</header>
+<head>
+			<h1>Клуб верховой езды</h1> 
+            <img src="https://novopole.ru/wp-content/uploads/2019/07/OSOZNANNYJ-NAEZDNIK.jpg"></head>
+<main>
+            <h2>Как проходят занятия</h2> 
+			<p> На занятиях вы будете не только практиковаться в верховой езде, но и узнаете, как ухаживать за лошадьми. Уже на первом занятии сможете покормить животных. Тренер вместе с вами подберёт вам лошадь, с учётом ваших навыков верховой езды. Вы будете практиковаться верхом на свежем воздухе под контролем тренера, а на более поздних занятиях вас ждёт прогулка по лесу. Научитесь кормить, поить, мыть и расчёсывать вашего скакуна, будете одевать и снимать сбрую. После окончания курса, по договорённости с клубом, можете приезжать на прогулку — навестить своего скакуна, с которым вы обязательно подружитесь.</p>
+           <h2>Расписание занятий</h2> 
+<table> 
+<tr>
+	<th>Название программы</th>
+	<th>Время занятий</th>
+	<th>Длительность программы</th>
+	<th>Тренер</th>
+</tr>
+<tr>
+	<td>Вводный курс</td>
+	<td>Суб. 12-16</td>
+	<td>3 недели</td>
+	<td>Попова А.В</td>
+</tr>
+<tr>
+	<td>Пони детям</td>
+	<td>Суб. 10-12</td>
+	<td>6 месяцев</td>
+	<td>Веткин П.А.</td>
+</tr>
+<tr>
+	<td>Верхом свободно</td>
+	<td>вс. 10-18</td>
+	<td>1 год</td>
+	<td>Алёшин М.М.</td>
+</tr>
+</table>
+<h2>Фотографии</h2> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pernod_Al_Ariba_0046b.jpg">
+	<img src="https://e-static.karusel-tv.ru/media/suit/preview_full/media/text/2018/11/1542196497922960_shutterstock_576779830.jpg?f68d777">
+	<img src="https://www.prokoni.ru/images/editor/1672240028_img_8836_jpg.jpg">
+	<img src="https://n1s1.hsmedia.ru/39/40/20/3940206faab370b5ef61494066009227/725x483_0xc0a8392b_289837521442337908.jpeg">
+	<img src="https://www.maximaequisport.ru/upload/resize_cache/iblock/27f/705_390_2/i-remember-you.jpg">
+	<img src="https://egida.by/_pu/22/70491715.jpg">
+        </main>
+        <footer> деревня Конная, ферма Сбруевых
+           	<br/>
+            <br/>
+            Тел. 4587-5681
+        </footer>
+</body>
+</html>
